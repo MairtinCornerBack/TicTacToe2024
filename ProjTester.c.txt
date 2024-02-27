@@ -3,6 +3,8 @@
 int main()
 {
 
+char grid[9];
+
 
 
 return 0;
