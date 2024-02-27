@@ -5,6 +5,7 @@ int main()
 
 char grid[9];
 
+int X,Y;
 
 
 return 0;
